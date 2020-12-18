@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5PjgvBV2qaLz7uCSMXcE+9ERfpfV8iGCEj7kUZdXngznQ/F4R7YiZOXSWQa3Vu8QSCEPWN0UddgurXe9fzj9OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lafrance.warren\\Documents\\JCDCGitHub\\webapi-okta-example\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lafrance.warren\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
